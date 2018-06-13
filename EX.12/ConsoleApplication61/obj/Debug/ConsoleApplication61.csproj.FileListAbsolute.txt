@@ -1,0 +1,9 @@
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\bin\Debug\ConsoleApplication61.exe.config
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\bin\Debug\ConsoleApplication61.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\bin\Debug\ConsoleApplication61.pdb
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\obj\Debug\ConsoleApplication61.csprojResolveAssemblyReference.cache
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\obj\Debug\ConsoleApplication61.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication61\ConsoleApplication61\obj\Debug\ConsoleApplication61.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\Задача 12\ConsoleApplication61\bin\Debug\ConsoleApplication61.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\Задача 12\ConsoleApplication61\obj\Debug\ConsoleApplication61.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\Задача 12\ConsoleApplication61\obj\Debug\ConsoleApplication61.pdb

@@ -1,0 +1,15 @@
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe.config
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\bin\Debug\ConsoleApplication50.pdb
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\obj\Debug\ConsoleApplication50.csprojResolveAssemblyReference.cache
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\obj\Debug\ConsoleApplication50.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication50\ConsoleApplication50\obj\Debug\ConsoleApplication50.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task3\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task3\ConsoleApplication50\obj\Debug\ConsoleApplication50.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task3\ConsoleApplication50\obj\Debug\ConsoleApplication50.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\obj\Debug\ConsoleApplication50.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\obj\Debug\ConsoleApplication50.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\bin\Debug\ConsoleApplication50.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\bin\Debug\ConsoleApplication50.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\задача 3\ConsoleApplication50\obj\Debug\ConsoleApplication50.csprojResolveAssemblyReference.cache

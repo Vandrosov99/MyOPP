@@ -1,0 +1,9 @@
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.exe.config
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.csprojResolveAssemblyReference.cache
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.pdb
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.exe
+c:\users\volodymyr\documents\visual studio 2015\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task7\ConsoleApplication57\bin\Debug\ConsoleApplication57.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task7\ConsoleApplication57\obj\Debug\ConsoleApplication57.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task7\ConsoleApplication57\obj\Debug\ConsoleApplication57.pdb

@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\bin\Debug\Task_9.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\bin\Debug\Task_9.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\bin\Debug\Task_9.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\obj\Debug\Task_9.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\obj\Debug\Task_9.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\UnProg\Task_9\obj\Debug\Task_9.pdb
+E:\ситко денис ипз11\HW9\bin\Debug\Task_9.exe.config
+E:\ситко денис ипз11\HW9\obj\Debug\Task_9.exe
+E:\ситко денис ипз11\HW9\obj\Debug\Task_9.pdb
+E:\ситко денис ипз11\HW9\obj\Debug\Task_9.csprojResolveAssemblyReference.cache
+E:\ситко денис ипз11\HW9\bin\Debug\Task_9.exe
+E:\ситко денис ипз11\HW9\bin\Debug\Task_9.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task9\bin\Debug\Task_9.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task9\obj\Debug\Task_9.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2015\Projects\task9\obj\Debug\Task_9.pdb
